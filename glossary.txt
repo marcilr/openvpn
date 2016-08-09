@@ -1,0 +1,10 @@
+glossary.txt
+Created Tue Aug  9 15:24:42 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for OpenVPN
+
+
+OpenVPN - Open Source VPN
+  http://openvpn.net/  
