@@ -8,5 +8,12 @@ Openvpn related links
 
 Links
 =====
+Linux Journal Security
+Has index of Paranoid Penguin - Building a Transparent Firewall with Linux index.
+http://www.linuxjournal.com/tag/security
+
+OpenVPN - Open Source VPN
+http://openvpn.net/
+
 Openvpn HOWTO
 http://openvpn.net/index.php/open-source/documentation/howto.html
