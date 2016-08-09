@@ -1,0 +1,22 @@
+vpn.txt
+Created Sun Oct 27 12:23:28 AKDT 2013
+Copyright (C) 2013-2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Virtual private network (VPN)
+
+
+A virtual private network (VPN) extends a private network across a public
+network, such as the Internet.  It enables a computer to send and receive data
+across shared or public networks as if it were directly connected to the
+private network, while benefiting from the functionality, security and
+management policies of the private network.  
+
+
+Links
+=====
+Virtual private network
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Virtual_private_network
+(END)
+
