@@ -1,0 +1,12 @@
+links.txt
+Created Thu Jul 31 15:26:51 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Openvpn related links
+
+
+Links
+=====
+Openvpn HOWTO
+http://openvpn.net/index.php/open-source/documentation/howto.html
