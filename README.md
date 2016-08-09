@@ -19,6 +19,9 @@ Filelist
   Paranoid penguin: Linux VPN technologies
   Linux Journal Issue #130, Feb 2005
 
+glossary.txt
+  Glossary for OpenVPN
+
 links.txt
   Openvpn related links
 
