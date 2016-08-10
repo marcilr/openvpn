@@ -21,6 +21,9 @@ http://www.linuxjournal.com/tag/security
 "Linux VPN Technologies" by Mick Bauer, LJ, January 2005
 http://www.linuxjournal.com/article/7881
 
+OpenVPN - Debian Wiki
+https://wiki.debian.org/OpenVPN
+
 OpenVPN - Open Source VPN
 http://openvpn.net/
 
@@ -33,4 +36,3 @@ http://www.monkeedev.co.uk/blog/2009/03/06/setting-up-openvpn-in-debianubuntu/
 
 Ubuntu Community OpenVPN
 https://help.ubuntu.com/community/OpenVPN
-
