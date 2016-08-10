@@ -25,6 +25,10 @@ glossary.txt
 links.txt
   Openvpn related links
 
+openvpn.txt
+  OpenVPN - Open Source VPN
+  http://openvpn.net/
+
 TODO
   Items for openvpn
 
