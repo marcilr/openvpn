@@ -21,40 +21,8 @@ occasional presenter at information security conferences and composer of the
 "Network Engineering Polka".
 
 
-Filelist
-========
-openvpn-part-I 
-  Paranoid Penguin - Linux VPNs with OpenVPN
-  Feb 01, 2010  By Mick Bauer
-  Linux Journal Issue #190
-  Connect safely to the mother ship with a Linux VPN. 
-  http://www.linuxjournal.com/magazine/paranoid-penguin-linux-vpns-openvpn?page=0,0
-
-openvpn-part-II 
-  Paranoid Penguin - Linux VPNs with OpenVPN, Part II
-  Apr 30, 2010  By Mick Bauer
-  Linux Journal Issue #191
-  Build a simple, secure VPN connection now!
-  http://www.linuxjournal.com/magazine/paranoid-penguin-linux-vpns-openvpn-part-ii?page=0,0
-
-
-Google: debian openvpn server.conf
-
-
 Links
 =====
-OpenVPN Home
-http://www.openvpn.net
+OpenVPN - Open Source VPN
+http://openvpn.net/
 
-Setting up OpenVPN in debian/ubuntu
-Good syntax & explanations
-http://www.monkeedev.co.uk/blog/2009/03/06/setting-up-openvpn-in-debianubuntu/
-
-Ubuntu Community OpenVPN
-https://help.ubuntu.com/community/OpenVPN
-
-"Linux VPN Technologies" by Mick Bauer, LJ, January 2005
-http://www.linuxjournal.com/article/7881
-
-Charlie Hosner's "SSL VPNs and OpenVPN: A lot of lies and a shred of truth"
-http://www.linux.com/archive/feature/48330
