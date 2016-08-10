@@ -24,6 +24,9 @@ http://www.linuxjournal.com/article/7881
 OpenVPN - Debian Wiki
 https://wiki.debian.org/OpenVPN
 
+OpenVPN - FAQ
+https://docs.openvpn.net/frequently-asked-questions/
+
 OpenVPN - Open Source VPN
 http://openvpn.net/
 
