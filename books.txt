@@ -1,0 +1,15 @@
+books.txt
+Created Tue Aug  9 17:13:31 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books for OpenVPN
+
+
+Books
+=====
+Mick Bauer (darth.elmo@wiremonkeys.org) is Network Security Architect for one
+of the US's largest banks. He is the author of the O'Reilly book Linux Server
+Security, 2nd edition (formerly called Building Secure Servers With Linux), an
+occasional presenter at information security conferences and composer of the
+"Network Engineering Polka".
