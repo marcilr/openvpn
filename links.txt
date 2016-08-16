@@ -23,6 +23,9 @@ IPsec
 From Wikipedia, the free encyclopedi
 http://en.wikipedia.org/wiki/IPsec
 
+How to connect my ubuntu to my workplace, GlobalProtect VPN, using win 7 VM  <===
+http://askubuntu.com/questions/686186/how-to-connect-my-ubuntu-to-my-workplace-globalprotect-vpn-using-win-7-vm
+
 How to Setup a VPN (PPTP) Server on Debian Linux
 http://www.howtogeek.com/51237/
 
