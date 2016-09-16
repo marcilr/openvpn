@@ -1,0 +1,45 @@
+links.txt
+Created Thu Jul 31 15:26:51 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Openvpn related links
+
+
+Google: debian openvpn server.conf
+
+
+Links
+=====
+Charlie Hosner's "SSL VPNs and OpenVPN: A lot of lies and a shred of truth"
+http://www.linux.com/archive/feature/48330
+
+Linux Journal Security
+Has index of Paranoid Penguin - Building a Transparent Firewall with Linux index.
+http://www.linuxjournal.com/tag/security
+
+"Linux VPN Technologies" by Mick Bauer, LJ, January 2005
+http://www.linuxjournal.com/article/7881
+
+OpenVPN
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/OpenVPN
+
+OpenVPN - Debian Wiki
+https://wiki.debian.org/OpenVPN
+
+OpenVPN - FAQ
+https://docs.openvpn.net/frequently-asked-questions/
+
+OpenVPN - Open Source VPN
+http://openvpn.net/
+
+Openvpn HOWTO
+http://openvpn.net/index.php/open-source/documentation/howto.html
+
+Setting up OpenVPN in debian/ubuntu
+Good syntax & explanations
+http://www.monkeedev.co.uk/blog/2009/03/06/setting-up-openvpn-in-debianubuntu/
+
+Ubuntu Community OpenVPN
+https://help.ubuntu.com/community/OpenVPN
