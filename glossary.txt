@@ -1,0 +1,37 @@
+glossary.txt
+Created Wed Feb 22 13:40:16 AKST 2012
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for vpn
+
+
+PPTP - The Point-to-Point Tunneling Protocol (PPTP) is a method for
+  implementing virtual private networks.  It works on Data link layer
+  (#2 layer) on TCP/IP model.  Personally I prefer IPSEC.  PPTP Client is a
+  Linux, FreeBSD, NetBSD and OpenBSD client for the proprietary Microsoft
+  Point-to-Point Tunneling Protocol, PPTP.  Allows connection to a PPTP based
+  Virtual Private Network (VPN) as used by employers and some cable and ADSL
+  internet service providers.
+  cyberciti.biz/
+
+VNC - Virtual Network Computing 
+
+VPN - Virtual private network
+  A virtual private network (VPN) extends a private network across a public network, such as the
+  Internet.  It enables a computer to send and receive data across shared or public networks as if
+  it were directly connected to the private network, while benefiting from the functionality,
+  security and management policies of the private network.
+  http://en.wikipedia.org/wiki/Virtual_private_network
+
+vpnc - Cisco-compatible VPN client
+  docs/vpnc.txt
+
+
+Links
+=====
+Linux configure point to point tunneling PPTP VPN client for Microsoft PPTP
+vpn server
+by NIX CRAFT on JUNE 11, 2007 - 58 COMMENTS - LAST UPDATED JANUARY 7, 2008
+in FREEBSD, HOWTO, LINUX
+http://www.cyberciti.biz/tips/howto-configure-ubuntu-fedora-linux-pptp-client.html

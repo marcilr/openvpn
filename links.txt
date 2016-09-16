@@ -1,0 +1,65 @@
+links.txt
+Created Sun Oct 27 12:28:27 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+VPN related links
+
+
+Links
+=====
+5 Best VPNs for Linux
+Nice OpenVPN section
+https://www.bestvpn.com/blog/3625/best-vpn-for-linux/
+
+Connecting to a Windows VPN server with Debian based distros
+http://happylinuxthoughts.blogspot.com/2007/10/connecting-to-windows-vpn-server-with.html
+
+FAQ
+Plenty of good vpn answers here.
+http://wiki.hidemyass.com/FAQ
+
+IPsec
+From Wikipedia, the free encyclopedi
+http://en.wikipedia.org/wiki/IPsec
+
+How to connect my ubuntu to my workplace, GlobalProtect VPN, using win 7 VM  <===
+http://askubuntu.com/questions/686186/how-to-connect-my-ubuntu-to-my-workplace-globalprotect-vpn-using-win-7-vm
+
+How to Setup a VPN (PPTP) Server on Debian Linux
+http://www.howtogeek.com/51237/
+
+How-To: Connect to a Cisco VPN with vpnc
+http://www.debuntu.org/how-to-connect-to-a-cisco-vpn-with-vpnc/
+
+OpenVPN HOWTO
+OpenVPN is a full-featured SSL VPN which implements OSI layer 2 or 3 secure
+network extension using the industry standard SSL/TLS protocol, supports
+flexible client authentication methods based on certificates, smart cards,
+and/or username/password credentials, and allows user or group-specific access
+control policies using firewall rules applied to the VPN virtual interface.
+OpenVPN is not a web application proxy and does not operate through a web
+browser.
+https://openvpn.net/index.php/open-source/documentation/howto.html
+
+PPTP Client
+http://pptpclient.sourceforge.net/howto-debian.phtml
+
+Setting up VPN on Linux
+Wednesday, 25 June 2014 13:26   Kerry Blake
+http://www.linux.com/community/blogs/133-general-linux/778280-setting-up-vpn-on-linux
+
+Using Remmina with VPN
+http://askubuntu.com/questions/264539/using-remmina-with-vpn
+
+Virtual private network
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/VPN
+
+VPN on Linux
+Has links to OpenVPN, PPTP, and L2TP
+http://wiki.hidemyass.com/Linux
+
+VPNClient
+Connecting to a VPN in Ubuntu
+https://help.ubuntu.com/community/VPNClient
