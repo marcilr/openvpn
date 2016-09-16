@@ -1,14 +1,14 @@
-README
-Created Fri May  9 14:23:31 AKDT 2014
-Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+README.md
+Created Tue Aug  9 17:14:22 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-# git-net-vpn-docs
+# git-net-vpn-openvpn-docs
 Documentation
 
 
 Filelist
 ========
-vpnc.txt
-  vpnc - Cisco-compatible VPN client
+books.txt
+  Books for OpenVPN
 
