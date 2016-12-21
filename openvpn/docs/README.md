@@ -9,6 +9,9 @@ Documentation
 
 Filelist
 ========
+acs-dsl.txt
+  ACS DSL modem
+
 books.txt
   Books for OpenVPN
 
