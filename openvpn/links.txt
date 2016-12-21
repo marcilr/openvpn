@@ -14,6 +14,9 @@ Links
 Charlie Hosner's "SSL VPNs and OpenVPN: A lot of lies and a shred of truth"
 http://www.linux.com/archive/feature/48330
 
+How To Set Up an OpenVPN Server on Debian 8
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-8
+
 Linux Journal Security
 Has index of Paranoid Penguin - Building a Transparent Firewall with Linux index.
 http://www.linuxjournal.com/tag/security
