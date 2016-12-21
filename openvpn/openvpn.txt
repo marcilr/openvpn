@@ -12,6 +12,22 @@ best route to go.  Linux Journal has had a series of articles on openvpn that
 are promising.
 
 
+Wed Dec 21 10:16:00 AKST 2016
+=============================
+Last night worked on openvpn client export instation on pfSense.  Initial install
+of version 1.x was easy.  It advised that a newwer 2.x was available.
+
+Inspection of the "client export" tab indicated that the openvpn server
+needed to be installed 1st.
+
+Per dicussion with John Millican at GCI the order of installation operations
+is:
+
+1. Configure users
+2. Install openvpn server
+3. Do "client export" to get configuration file (?)
+
+
 Tue Dec 20 09:16:29 AKST 2016
 =============================
 OpenVPN use with pfSense
