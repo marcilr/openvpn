@@ -8,8 +8,63 @@ Books for OpenVPN
 
 Books
 =====
+Beginning OpenVPN 2.0.9
+Build and integrate Virtual Private Networks using OpenVPN
+Markus Feilner, Norbert Graf
+December 2009
+price:  $5.00 eBook
+       $35.00 Print + eBook
+https://www.packtpub.com/networking-and-servers/beginning-openvpn-209
+
+
+Mastering OpenVPN
+Master building and integrating secure private networks using OpenVPN
+Eric F Crist, Jan Just Keijser
+August 2015
+price:  $5.00 eBook
+       $39.99 Print + eBook
+https://www.packtpub.com/networking-and-servers/mastering-openvpn
+
 Mick Bauer (darth.elmo@wiremonkeys.org) is Network Security Architect for one
 of the US's largest banks. He is the author of the O'Reilly book Linux Server
 Security, 2nd edition (formerly called Building Secure Servers With Linux), an
 occasional presenter at information security conferences and composer of the
 "Network Engineering Polka".
+
+OpenVPN 2 Cookbook
+Everything you need to know to master the intricacies of OpenVPN 2 is
+contained in this cookbook.  Packed with recipes, tips, and tricks, it’s the
+perfect companion for anybody wanting to build a secure virtual private
+network.
+Jan Just Keijser
+February 2011
+price:  $5.00 eBook
+       $29.99 Print + eBook
+https://www.packtpub.com/networking-and-servers/openvpn-2-cookbook
+
+OpenVPN: Building and Integrating Virtual Private Networks
+Learn how to build secure VPNs using this powerful Open Source application
+Markus Feilner
+May 2006
+price:  $5.00 eBook
+       $35.99 Print + eBook
+https://www.packtpub.com/networking-and-servers/openvpn-building-and-integrating-virtual-private-networks
+
+OpenVPN: Grundlagen, Konfiguration, Praxis
+by Johannes Bauer, Albrecht Liebscher, Klaus Thielking-Riechert
+Publisher: dpunkt.verlag (August, 2006)
+ISBN: 978-3-89864-396-2
+http://www.dpunkt.de/buecher/2388/openvpn.html
+
+OpenVPN: Virtual Private Network, Pre-Shared Key, Certificate Authority,
+NetBSD, FreeBSD, OpenBSD, Linux, Solaris (Operating System), Transport Layer
+Security
+by Lambert M. Surhone, Miriam T. Timpledon and Susan F. Marseken
+Publisher: Betascript Publishing (February 4, 2010) 
+ISBN: 6130362560
+
+
+Links
+=====
+OpeVPN Books
+https://openvpn.net/index.php/open-source/books.html
