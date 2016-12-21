@@ -1,0 +1,15 @@
+packages.txt
+Created Wed Dec 21 10:10:18 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Packages for openvpn (Debian jessie 8.6 amd64)
+
+
+easy-rsa - Simple shell based CA utility
+
+network-manager-openvpn-gnome
+  Network management framework (OpenVPN plugin GNOME GUI)
+  Enable OpenVPN in the Gnome NetworkManager
+
+openvpn - virtual private network daemon
