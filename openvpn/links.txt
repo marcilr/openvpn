@@ -28,7 +28,7 @@ OpenVPN
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/OpenVPN
 
-OpenVPN books
+OpenVPN Books
 https://openvpn.net/index.php/open-source/books.html
 
 OpenVPN - Debian Wiki
