@@ -6,8 +6,8 @@ Copyright (C) 2010-2016 by Raymond E. Marcil <marcilr@gmail.com>
 OpenVPN - Open Source VPN
 
 
-Would like to be able to access the home network from UAA ITS debian lenny
-boothite workstation.  Think that IP encapsulation using openvpn may be the
+Would like to be able to access the home network from GCI NIT Debian jessie 8.6
+amd64 covellite workstation.  Think that IP encapsulation using openvpn may be the
 best route to go.  Linux Journal has had a series of articles on openvpn that
 are promising.
 
