@@ -12,6 +12,26 @@ best route to go.  Linux Journal has had a series of articles on openvpn that
 are promising.
 
 
+Tue Dec 20 09:16:29 AKST 2016
+=============================
+OpenVPN use with pfSense
+
+Had good discussion with GCI NMS John Millican regarding pfSense openvpn.
+
+There are a few components required for this:
+
+1. In pfSense install the openvpn client export package.  This will create
+   the "client export" tab for openvpn use.
+
+2. Install openvpn package on remote debian server.  On debian jessie
+   8.6 amd64 this looks like:
+     openvpn - virtual private network daemon
+
+3. Configure the remote *.ovpn file with the public ip of the pfSense box
+   running the openvpn client.
+
+
+
 Books
 =====
 Mick Bauer (darth.elmo@wiremonkeys.org) is Network Security Architect for one
