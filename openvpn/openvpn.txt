@@ -20,7 +20,7 @@ of version 1.x was easy.  It advised that a newwer 2.x was available.
 Inspection of the "client export" tab indicated that the openvpn server
 needed to be installed 1st.
 
-Per dicussion with John Millican at GCI the order of installation operations
+Per dicussion with GCI NMS John Millican the order of installation operations
 is:
 
 1. Configure users
