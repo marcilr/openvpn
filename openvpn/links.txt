@@ -11,6 +11,10 @@ Google: debian openvpn server.conf
 
 Links
 =====
+Adding OpenVPN client connection to cron [duplicate]
+Looks easy
+http://serverfault.com/questions/583262/adding-openvpn-client-connection-to-cron
+
 Charlie Hosner's "SSL VPNs and OpenVPN: A lot of lies and a shred of truth"
 http://www.linux.com/archive/feature/48330
 
@@ -42,6 +46,10 @@ https://openvpn.net/index.php/open-source/documentation/howto.html
 
 OpenVPN - Open Source VPN
 http://openvpn.net/
+
+OpenVPN Tunnels and Bridges
+Good stuff.
+http://shorewall.net/OPENVPN.html
 
 OpenVPN Wiki
 https://wiki.debian.org/OpenVPN
