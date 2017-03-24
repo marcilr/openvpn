@@ -41,8 +41,20 @@ https://wiki.debian.org/OpenVPN
 OpenVPN - FAQ
 https://docs.openvpn.net/frequently-asked-questions/
 
+OpenVPN Home
+http://openvpn.net/
+
 OpenVPN HOWTO
-https://openvpn.net/index.php/open-source/documentation/howto.html
+"Creating configuration files for server and clients
+...
+Note that on Linux, BSD, or unix-like OSes, the sample configuration
+files are named server.conf and client.conf.  On Windows they are named
+server.ovpn and client.ovpn."
+http://openvpn.net/index.php/open-source/documentation/howto.html
+
+OpenVPN HOWTO - Sample OpenVPN 2.0 configuration files
+server.conf & client.conf
+http://openvpn.net/index.php/open-source/documentation/howto.html#examples
 
 OpenVPN - Open Source VPN
 http://openvpn.net/

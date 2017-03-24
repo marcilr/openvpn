@@ -45,25 +45,3 @@ openvpn.net/
 
 x Tue Nov  9 14:22:05 AKST 2010 - Done.
 Finish retrieval of openvpn-part-I and cleanup.
-
-
-Links
-=====
-OpenVPN Home
-http://openvpn.net/
-
-OpenVPN HOWTO
-"Creating configuration files for server and clients
-...
-Note that on Linux, BSD, or unix-like OSes, the sample configuration 
-files are named server.conf and client.conf. On Windows they are named 
-server.ovpn and client.ovpn."
-http://openvpn.net/index.php/open-source/documentation/howto.html
-
-OpenVPN HOWTO - Sample OpenVPN 2.0 configuration files
-server.conf & client.conf
-http://openvpn.net/index.php/open-source/documentation/howto.html#examples
-
-Linux Journal Security
-Has index of Paranoid Penguin - Building a Transparent Firewall with Linux index.
-http://www.linuxjournal.com/tag/security
