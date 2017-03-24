@@ -1,34 +1,40 @@
 TODO
 Created Tue May 11 09:17:00 AKDT 2010
-by Raymond E. Marcil
+Copyright (C) 2010 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-+++ Nov 9, 2010 - Need to finish mirroring the Paranoid Penguin - Linux 
-VPNs with OpenVPN articles.  Look to be a few more.
-
-Need to get:
-  Paranoid Penguin - Linux VPNs with OpenVPN, Part III
-  by Mick Bauer - Apr 01, 2010 
-  http://www.linuxjournal.com/article/10707
-
-  Paranoid Penguin - Linux VPNs with OpenVPN, Part IV (need to finish)
-  by Mick Bauer - Jun 30, 2010 
-  http://www.linuxjournal.com/article/10744
-
-  Paranoid Penguin - Linux VPNs with OpenVPN, Part V
-  by Mick Bauer - Aug 01, 2010 
-  http://www.linuxjournal.com/article/10761
-
-ACM Digital Library
-Shows Linux Journal issue:
-http://portal.acm.org/citation.cfm?id=1804377&CFID=110184716&CFTOKEN=53330397
-
-+++ Nov 9, 2010 - Setup a persistant openvpn tunnel from UAA ITS to 
-home network.
++++ Fri Mar 24 08:25:33 AKDT 2017 - Setup a persistant openvpn tunnel from UAA ITS to 
+    home network.
 
 
 Complete
 ========
+*** FIXME: May need to push Paranoid Penguin articles off the usb key! ***
+
+x March 23, 2017 - Got Paranoid Penguin articles synced under:
+
+Nov 9, 2010 - Need to finish mirroring the Paranoid Penguin - Linux
+VPNs with OpenVPN articles.  Look to be a few more.
+
+Need to get:
+  Paranoid Penguin - Linux VPNs with OpenVPN, Part III
+  by Mick Bauer - Apr 01, 2010
+  http://www.linuxjournal.com/article/10707
+
+  Paranoid Penguin - Linux VPNs with OpenVPN, Part IV (need to finish)
+  by Mick Bauer - Jun 30, 2010
+  http://www.linuxjournal.com/article/10744
+
+  Paranoid Penguin - Linux VPNs with OpenVPN, Part V
+  by Mick Bauer - Aug 01, 2010
+  http://www.linuxjournal.com/article/10761
+
+ACM Digital Library
+Shows Linux Journal issue:
+Paranoid penguin: linux VPNs with OpenVPN, Part IV
+http://portal.acm.org/citation.cfm?id=1804377&CFID=110184716&CFTOKEN=53330397
+
+
 x  Nov 9, 2010 - The server.ovpn (windows) or server.conf (linux) is 
 located at /etc/openvpn/server.conf
 
