@@ -3,14 +3,12 @@ Created Tue May 11 09:17:00 AKDT 2010
 Copyright (C) 2010 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-+++ Fri Mar 24 08:25:33 AKDT 2017 - Setup a persistant openvpn tunnel from UAA ITS to 
-    home network.
++++ Fri Mar 24 08:25:33 AKDT 2017 - Setup a persistant openvpn tunnel from GCI covellite,
+    through lobby firewall, to home network.
 
 
 Complete
 ========
-*** FIXME: May need to push Paranoid Penguin articles off the usb key! ***
-
 x March 23, 2017 - Got Paranoid Penguin articles synced under:
 
 Nov 9, 2010 - Need to finish mirroring the Paranoid Penguin - Linux
