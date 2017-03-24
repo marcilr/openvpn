@@ -66,6 +66,11 @@ http://shorewall.net/OPENVPN.html
 OpenVPN Wiki
 https://wiki.debian.org/OpenVPN
 
+Remote display (VRDP support) - 7.1
+Chapter 7. Remote virtual machines
+Could be execellent to use for access win 7 pro machine at GCI
+https://www.virtualbox.org/manual/ch07.html
+
 Setting up OpenVPN in debian/ubuntu
 Good syntax & explanations
 http://www.monkeedev.co.uk/blog/2009/03/06/setting-up-openvpn-in-debianubuntu/
