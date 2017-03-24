@@ -3,6 +3,23 @@ Created Tue May 11 09:17:00 AKDT 2010
 Copyright (C) 2010 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+
+
+
+Fri Mar 24 08:56:06 AKDT 2017 - Configure RDP access from home to GCI covellite's rmarcil vm.
+  This would very good since I typically ssh to lobby firewall, ssh to covellite workstation,
+  run virtualbox, save machine, then start machine on malachite workstation.  A lot or work!
+  
+  I've crashed the rmarcil vm by logging out of covellite a number of times.
+  Would be far superior to just access the rmarcil vm running on covellite.
+
+  Of course a tunnel threw GCI lobby firewall would be best.
+
+  Remote display (VRDP support) - 7.1
+  Chapter 7. Remote virtual machines
+  Could be execellent to use for access win 7 pro machine at GCI
+  https://www.virtualbox.org/manual/ch07.html
+
 +++ Fri Mar 24 08:25:33 AKDT 2017 - Setup a persistant openvpn tunnel from GCI covellite,
     through lobby firewall, to home network.
 
