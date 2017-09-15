@@ -11,6 +11,9 @@ glossary.txt
 links.txt
   VPN related links
 
+manifest
+  Manifest for resync application
+
 packages.txt
   VPN packages
 
