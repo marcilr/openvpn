@@ -1,0 +1,143 @@
+README
+Created Fri Feb  9 10:40:27 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+Linux-Journal-receipt-20180109.pdf
+  Receipt for 12 month Linux Journal resubscription
+  for $34.50
+
+Linux-Journal-2010-06.pdf
+  Issue #194, June 2010
+  Focus: Distributions
+
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part V
+  Tips for success in using OpenVPN for secure remote access.
+  p. 26-29   (actual: 28-31)
+  pages: 4
+
+  Dynamic Config Files with Nmap
+  by Kyle Rankin
+  p. 30-32   (actual: 32-34)
+  pages: 3
+
+<=== Missing 2010-05 !!!
+
+Linux-Journal-2010-04.pdf
+  Issue #192, April 2010
+  Focus: Software Development
+
+  Web Application Testing with Selenium
+  by Alexander Sirotkin, p. 62-67 (actual 64-69)
+  pages: 6
+
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part III
+  Secure remote networking, the OpenVPN way.
+  p. 28-31 (actual 30-33)
+  pages: 4
+
+Linux-Journal-2010-03.pdf
+  Issue #191, March 2010
+  Focus: System Administration
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part II
+  Build a simple, secure VPN connection now!
+  p. 24-28 (actual: 26-30)
+  pages: 5
+
+Linux-Journal-2010-02.pdf
+  Issue #190, February 2010
+  Focus: Desktop
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, p. 28-32 (actual: 30-34)
+
+
+paranoid-penguin-2010-06-part-V.pdf
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part V
+  Tips for success in using OpenVPN for secure remote access.
+  p. 26-29   (actual: 28-31)
+  pages: 4
+
+  Extracted with:
+    $ pdftk A=Linux-Journal-2010-06.pdf cat A28-31 \
+    output paranoid-penguin-2010-06-part-V.pdf
+
+  Online at:
+    Paranoid Penguin - Linux VPNs with OpenVPN, Part V
+    Issue #194, June 2010
+    Aug 01, 2010 by Mick Bauer
+    http://www.linuxjournal.com/article/10761
+
+paranoid-penguin-2010-04-part-IV.pdf
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part V
+  Tips for success in using OpenVPN for secure remote access.
+  p. 26-29   (actual: 28-31)
+  pages: 4
+
+  Extracted with:
+    $ pdftk A=Linux-Journal-2010-06.pdf cat A28-31 \
+    output paranoid-penguin-2010-06-part-IV.pdf
+
+  Online at:
+    Paranoid Penguin - Linux VPNs with OpenVPN, Part IV
+    Use dangerous local-area networks without fear with OpenVPN.
+    Jun 30, 2010 by Mick Bauer
+    http://www.linuxjournal.com/article/10744
+
+paranoid-penguin-2010-04-part-III.pdf
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part III
+  Secure remote networking, the OpenVPN way.  
+  p. 28-31 (actual 30-33)
+  pages: 4
+  Extracted with:
+    $ pdftk A=Linux-Journal-2010-04.pdf cat A30-33 \
+    output paranoid-penguin-2010-04-part-III.pdf
+
+  Online at:
+    Paranoid Penguin - Linux VPNs with OpenVPN, Part III
+    Secure remote networking, the OpenVPN way.
+    Issue #192, April 2010
+    Apr 01, 2010 by Mick Bauer
+    http://www.linuxjournal.com/article/10707
+
+paranoid-penguin-2010-03-part-II.pdf
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN, Part II
+  Build a simple, secure VPN connection now!
+  p. 24-28 (actual: 26-30)
+  pages: 5
+  Extracted with:
+    $ pdftk A=Linux-Journal-2010-03.pdf cat A26-30 \
+    output paranoid-penguin-2010-03-part-II.pdf
+
+  Online at:
+    Paranoid Penguin - Linux VPNs with OpenVPN, Part II
+    Build a simple, secure VPN connection now!
+    Issue #191, March 2010
+    May 01, 2010 by Mick Bauer
+    http://www.linuxjournal.com/magazine/paranoid-penguin-linux-vpns-openvpn-part-ii
+
+paranoid-penguin-2010-02-part-I.pdf
+  Mick Bauer's Paranoid Penguin
+  Linux VPNs with OpenVPN
+  Connect safely to the mother ship with a Linux VPN.
+  p. 28-32 (actual: 30-34)
+  pages: 5
+  Extraced with:
+    $ pdftk A=Linux-Journal-2010-02.pdf cat A30-34 \
+    output paranoid-penguin-2010-02.pdf
+
+  Online at:
+    Paranoid Penguin - Linux VPNs with OpenVPN
+    Connect safely to the mother ship with a Linux VPN.
+    Issue #190, February 2010
+    Feb 01, 2010 by Mick Bauer
+    http://www.linuxjournal.com/magazine/paranoid-penguin-linux-vpns-openvpn
+
