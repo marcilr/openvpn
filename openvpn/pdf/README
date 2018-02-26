@@ -22,22 +22,22 @@ paranoid-penguin-2010-06-part-V.pdf
     Aug 01, 2010 by Mick Bauer
     http://www.linuxjournal.com/article/10761
 
-paranoid-penguin-2010-04-part-IV.pdf
+paranoid-penguin-2010-05-part-IV.pdf
   Mick Bauer's Paranoid Penguin
-  Linux VPNs with OpenVPN, Part V
-  Tips for success in using OpenVPN for secure remote access.
-  p. 26-29   (actual: 28-31)
-  pages: 4
+  Linux VPNs with OpenVPN, Part IV
+  Use dangerous local-area networks without fear with OpenVPN.
+  p. 26-30 (actual p. 28-32
+  pages: 5
 
   Extracted with:
-    $ pdftk A=Linux-Journal-2010-06.pdf cat A28-31 \
-    output paranoid-penguin-2010-06-part-IV.pdf
+    $ pdftk A=Linux-Journal-2010-05.pdf cat A28-32 \
+    output paranoid-penguin-2010-05-part-IV.pdf
 
   Online at:
     Paranoid Penguin - Linux VPNs with OpenVPN, Part IV
     Use dangerous local-area networks without fear with OpenVPN.
-    Issue #192, April 2010
-    Jun 30, 2010 by Mick Bauer
+    Issue #1923 May2010
+    Jun 30, 2010 By Mick Bauer
     http://www.linuxjournal.com/article/10744
 
 paranoid-penguin-2010-04-part-III.pdf
