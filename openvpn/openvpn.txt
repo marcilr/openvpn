@@ -6,22 +6,24 @@ Copyright (C) 2010-2016 by Raymond E. Marcil <marcilr@gmail.com>
 OpenVPN - Open Source VPN
 
 
-Would like to be able to access the home network from GCI NIT Debian jessie 8.6
-amd64 covellite workstation.  Think that IP encapsulation using openvpn may be the
-best route to go.  Linux Journal has had a series of articles on openvpn that
+Would like to be able to access the home network from GCI NIT
+Debian jessie 8.6 amd64 covellite workstation.  Think that
+IP encapsulation using openvpn may be the best route to go.
+Linux Journal has had a series of articles on openvpn that
 are promising.
 
 
 Wed Dec 21 10:16:00 AKST 2016
 =============================
-Last night worked on openvpn client export instation on pfSense.  Initial install
-of version 1.x was easy.  It advised that a newwer 2.x was available.
+Last night worked on openvpn client export installation
+on pfSense. Initial install of version 1.x was easy.  It
+advised that a newwer 2.x was available.
 
-Inspection of the "client export" tab indicated that the openvpn server
-needed to be installed 1st.
+Inspection of the "client export" tab indicated that the
+openvpn server needed to be installed 1st.
 
-Per dicussion with GCI NMS John Millican the order of installation operations
-is:
+Per dicussion with GCI NMS John Millican the order of
+installation operations is:
 
 1. Configure users
 2. Install openvpn server
@@ -32,7 +34,8 @@ Tue Dec 20 09:16:29 AKST 2016
 =============================
 OpenVPN use with pfSense
 
-Had good discussion with GCI NMS John Millican regarding pfSense openvpn.
+Had good discussion with GCI NMS John Millican regarding
+pfSense openvpn.
 
 There are a few components required for this:
 
@@ -61,4 +64,3 @@ Links
 =====
 OpenVPN - Open Source VPN
 http://openvpn.net/
-
