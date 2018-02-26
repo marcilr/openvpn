@@ -66,6 +66,12 @@ http://shorewall.net/OPENVPN.html
 OpenVPN Wiki
 https://wiki.debian.org/OpenVPN
 
+Paranoid Penguin - Linux VPNs with OpenVPN
+Connect safely to the mother ship with a Linux VPN.
+Issue #190, February 2010
+Feb 01, 2010 by Mick Bauer
+http://www.linuxjournal.com/magazine/paranoid-penguin-linux-vpns-openvpn
+
 Remote display (VRDP support) - 7.1
 Chapter 7. Remote virtual machines
 Could be execellent to use for access win 7 pro machine at GCI
