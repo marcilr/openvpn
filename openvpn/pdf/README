@@ -5,6 +5,19 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+meet-openvpn-2014-12-15.pdf
+  Meet OpenVPN
+  Connecting road warriors with a full-blown open-source VPN solution.
+  Dec 15, 2004 by Hans-Cees Speel
+  Printed 3 web pages to pdf and combined with:
+    $ pdftk page-1.pdf page-2.pdf page-3.pdf \
+    cat output meet-openvpn-2014-12-15.pdf
+  pages: 23 (includes a *lot* of comments to original 3 pages)
+  
+  http://www.linuxjournal.com/article/7949?page=0,0
+  http://www.linuxjournal.com/article/7949?page=0,1
+  http://www.linuxjournal.com/article/7949?page=0,2
+
 paranoid-penguin-2010-06-part-V.pdf
   Mick Bauer's Paranoid Penguin
   Linux VPNs with OpenVPN, Part V
