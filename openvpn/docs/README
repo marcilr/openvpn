@@ -15,3 +15,10 @@ acs-dsl.txt
 books.txt
   Books for OpenVPN
 
+bridging-vs-routing.txt
+  Bridging vs. Routing
+  --Bridging vs. routing - OpenVPN Community
+    This page has very good details!
+    Looks like bridging is the way.
+    https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
+
