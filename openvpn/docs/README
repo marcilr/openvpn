@@ -22,3 +22,10 @@ bridging-vs-routing.txt
     Looks like bridging is the way.
     https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
 
+tap-vs-tun.txt
+  TAP vs. TUN
+  TAP is basically at Ethernet level (layer 2) and acts like a
+  switch where as TUN works at network level (layer 3) and
+  routes packets on the VPN.  TAP is bridging whereas TUN is
+  routing.Dec 4, 2013
+  --https://security.stackexchange.com/questions/46442/openvpn-tap-vs-tun-mode
