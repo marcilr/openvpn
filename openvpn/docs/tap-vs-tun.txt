@@ -1,0 +1,21 @@
+tap-vs-tun.txt
+Created Wed Feb 28 02:12:42 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+TAP vs. TUN
+
+TAP is basically at Ethernet level (layer 2) and acts like a
+switch where as TUN works at network level (layer 3) and
+routes packets on the VPN.  TAP is bridging whereas TUN is
+routing.Dec 4, 2013
+--stackexchange.com/questions/46442/openvpn-tap-vs-tun-mode
+
+
+Links
+=====
+OpenVPN Tap vs Tun Mode [closed]
+https://security.stackexchange.com/questions/46442/openvpn-tap-vs-tun-mode
+
+Should I use tap or tun for openvpn?
+https://serverfault.com/questions/21157/should-i-use-tap-or-tun-for-openvpn
