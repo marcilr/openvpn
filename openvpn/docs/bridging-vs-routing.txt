@@ -1,0 +1,26 @@
+bridging-vs-routing.txt
+Created Wed Feb 28 02:01:06 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bridging vs. Routing
+
+
+Routed OpenVPN configurations are useful if the machine running
+the OpenVPN server is the same machine which is serving as the
+LAN's gateway. ... Another significant benefit of bridging over
+routing is that Ethernet bridging passes all Ethernet network
+traffic whereas IP routing only handles "directed" IP packet
+traffic.
+--www.grc.com/vpn/routing.htm
+
+
+Links
+=====
+Bridging vs. routing - OpenVPN Community
+This page has very good details!
+Looks like bridging is the way.
+https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
+
+GRC | OpenVPN HOWTO Guide: Routing vs Bridging - Gibson Research
+https://www.grc.com/vpn/routing.htm
