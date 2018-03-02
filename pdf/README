@@ -13,7 +13,10 @@ meet-openvpn-2014-12-15.pdf
     $ pdftk page-1.pdf page-2.pdf page-3.pdf \
     cat output meet-openvpn-2014-12-15.pdf
   pages: 23 (includes a *lot* of comments to original 3 pages)
-  
+
+  NOTE: Thist article covers "Setting Up an OpenVPN (Routing) Scenario"
+        It does not cover bridging.  
+
   http://www.linuxjournal.com/article/7949?page=0,0
   http://www.linuxjournal.com/article/7949?page=0,1
   http://www.linuxjournal.com/article/7949?page=0,2
