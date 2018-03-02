@@ -94,6 +94,12 @@ OpenVPN HOWTO - Sample OpenVPN 2.0 configuration files
 server.conf & client.conf
 http://openvpn.net/index.php/open-source/documentation/howto.html#examples
 
+OpenVPN HOWTOs
+http://openvpn.net/
+
+OpenVPN man pages
+http://openvpn.net/man.html
+
 OpenVPN - Open Source VPN
 http://openvpn.net/
 
