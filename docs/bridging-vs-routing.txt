@@ -6,6 +6,12 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Bridging vs. Routing
 
 
+Bridging and routing are functionally very similar, with the major
+difference being that a routed VPN will not pass IP broadcasts
+while a bridged VPN will.
+--openvpn.net/index.php/open-source/faq/75-general/311-what-are-the-fundamental-differences-between-bridging-and-routing-in-terms-of-configuration.html
+
+
 Routing
 =======
 Overall, routing is probably a better choice for most people,
@@ -38,9 +44,11 @@ traffic.
 
 Links
 =====
-Bridging vs. routing - OpenVPN Community
+Bridging vs. routing
+OpenVPN Community Wiki and Tracker
 This page has very good details!
 Looks like bridging is the way.
+
 https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
 
 Determining whether to use a routed or bridged VPN
@@ -48,3 +56,11 @@ https://openvpn.net/index.php/open-source/documentation/howto.html#vpntype
 
 GRC | OpenVPN HOWTO Guide: Routing vs Bridging - Gibson Research
 https://www.grc.com/vpn/routing.htm
+
+OpenVPN Routing (in Secure-Computing Wiki)
+Good lan configuration details here.
+https://secure-computing.net/wiki/index.php/OpenVPN/Routing
+
+​What are the fundamental differences between bridging and routing in
+terms of configuration? (in OpenVPN FAQ)
+https://openvpn.net/index.php/open-source/faq/75-general/311-what-are-the-fundamental-differences-between-bridging-and-routing-in-terms-of-configuration.html
