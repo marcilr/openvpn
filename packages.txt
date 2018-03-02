@@ -14,7 +14,22 @@ network-manager-openvpn-gnome
 
 remmina - remote desktop client for GNOME desktop environment
 
+
+openvpn <=== This is it!
+=======
+Debian stretch 9.3 amd64 - March 2, 2018
+
+$ apt-cache search openvpn | grep openvpn
+gadmin-openvpn-client - GTK+ configuration tool for openvpn (client)
+gadmin-openvpn-server - GTK+ configuration tool for openvpn (server)
+gadmin-openvpn-server-dbg - GTK+ configuration tool for openvpn (debug for server)
+network-manager-openvpn - network management framework (OpenVPN plugin core)
+network-manager-openvpn-gnome - network management framework (OpenVPN plugin GNOME GUI)
 openvpn - virtual private network daemon
+openvpn-auth-ldap - OpenVPN LDAP authentication module
+openvpn-auth-radius - OpenVPN RADIUS authentication module
+openvpn-auth-radius-dbg - debugging symbols for openvpn-plugin-radius
+openvpn-systemd-resolved - integrates OpenVPN with systemd-resolved
 
 
 
