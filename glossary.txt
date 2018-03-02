@@ -6,7 +6,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Glossary for vpn
 
 
-PPTP - The Point-to-Point Tunneling Protocol (PPTP) is a method for
+pptp - The Point-to-Point Tunneling Protocol (PPTP) is a method for
   implementing virtual private networks.  It works on Data link layer
   (#2 layer) on TCP/IP model.  Personally I prefer IPSEC.  PPTP Client is a
   Linux, FreeBSD, NetBSD and OpenBSD client for the proprietary Microsoft
@@ -15,12 +15,13 @@ PPTP - The Point-to-Point Tunneling Protocol (PPTP) is a method for
   internet service providers.
   cyberciti.biz/
 
-VNC - Virtual Network Computing 
+vnc - Virtual Network Computing 
 
-VPN - Virtual private network
-  A virtual private network (VPN) extends a private network across a public network, such as the
-  Internet.  It enables a computer to send and receive data across shared or public networks as if
-  it were directly connected to the private network, while benefiting from the functionality,
+vpn - Virtual private network
+  A virtual private network (VPN) extends a private network across a
+  public network, such as the Internet.  It enables a computer to send
+  and receive data across shared or public networks as if it were directl
+  connected to the private network, while benefiting from the functionality,
   security and management policies of the private network.
   http://en.wikipedia.org/wiki/Virtual_private_network
 
