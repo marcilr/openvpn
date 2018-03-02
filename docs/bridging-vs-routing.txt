@@ -44,7 +44,7 @@ traffic.
 
 Links
 =====
-Bridging vs. routing
+Bridging vs. routing               <===
 OpenVPN Community Wiki and Tracker
 This page has very good details!
 Looks like bridging is the way.
