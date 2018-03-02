@@ -6,6 +6,27 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Bridging vs. Routing
 
 
+Routing
+=======
+Overall, routing is probably a better choice for most people,
+as it is more efficient and easier to set up (as far as the
+OpenVPN configuration itself) than bridging.  Routing also
+provides a greater ability to selectively control access
+rights on a client-specific basis.
+
+I would recommend using routing unless you need a specific
+feature which requires bridging, such as:
+
+o the VPN needs to be able to handle non-IP protocols such as IPX,
+
+o you are running applications over the VPN which rely on network
+  broadcasts (such as LAN games), or
+
+o you would like to allow browsing of Windows file shares across
+  the VPN without setting up a Samba or WINS server.
+--openvpn.net/index.php/open-source/documentation/howto.html#vpntype
+
+
 Routed OpenVPN configurations are useful if the machine running
 the OpenVPN server is the same machine which is serving as the
 LAN's gateway. ... Another significant benefit of bridging over
@@ -21,6 +42,9 @@ Bridging vs. routing - OpenVPN Community
 This page has very good details!
 Looks like bridging is the way.
 https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
+
+Determining whether to use a routed or bridged VPN
+https://openvpn.net/index.php/open-source/documentation/howto.html#vpntype
 
 GRC | OpenVPN HOWTO Guide: Routing vs Bridging - Gibson Research
 https://www.grc.com/vpn/routing.htm
