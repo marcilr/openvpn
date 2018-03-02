@@ -3,37 +3,26 @@ Created Tue Nov  9 16:33:18 AKST 2010
 Copyright (C) 2010-2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-openvpn - virtual private network daemon
-
-
-OpenVPN repository.  For securely connection home workstions to work.
-
-
-# git-net-vpn-openvpn
-OpenVPN - Open Source VPN
-
 
 Filelist
 ========
-*** NOT YET ***
-  Paranoid penguin: Linux VPN technologies
-  Linux Journal Issue #130, Feb 2005
+acs-dsl.txt
+  ACS DSL modem
 
-glossary.txt
-  Glossary for OpenVPN
+books.txt
+  Books for OpenVPN
 
-links.txt
-  Openvpn related links
+bridging-vs-routing.txt
+  Bridging vs. Routing
+  --Bridging vs. routing - OpenVPN Community
+    This page has very good details!
+    Looks like bridging is the way.
+    https://community.openvpn.net/openvpn/wiki/BridgingAndRouting
 
-openvpn.txt
-  OpenVPN - Open Source VPN
-  http://openvpn.net/
-
-TODO
-  Items for openvpn
-
-
-Links
-=====
-OpenVPN - Open Source VPN
-http://openvpn.net/
+tap-vs-tun.txt
+  TAP vs. TUN
+  TAP is basically at Ethernet level (layer 2) and acts like a
+  switch where as TUN works at network level (layer 3) and
+  routes packets on the VPN.  TAP is bridging whereas TUN is
+  routing.Dec 4, 2013
+  --https://security.stackexchange.com/questions/46442/openvpn-tap-vs-tun-mode
