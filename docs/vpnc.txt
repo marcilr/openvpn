@@ -16,3 +16,23 @@ o Installed vpnc - Cisco-compatible VPN client package.
 
 Created /etc/vpnc/
 
+Packages (Debian stretch 9.3 amd64 - March 2, 2018)
+========
+$ apt-cache search vpnc
+kvpnc - frontend to VPN clients
+kvpnc-dbg - frontend to VPN clients - debugging symbols
+network-manager-vpnc - network management framework (VPNC plugin core)
+network-manager-vpnc-gnome - network management framework 
+  (VPNC plugin GNOME GUI)
+vpnc - Cisco-compatible VPN client
+vpnc-scripts - Network configuration scripts for VPNC and OpenConnect
+marcilr@covellite:~/git/net/vpn/openvpn$ apt-cache search vpnc
+kvpnc - frontend to VPN clients
+kvpnc-dbg - frontend to VPN clients - debugging symbols
+network-manager-vpnc - network management framework (VPNC plugin core)
+network-manager-vpnc-gnome - network management framework
+  (VPNC plugin GNOME GUI)
+vpnc - Cisco-compatible VPN client
+vpnc-scripts - Network configuration scripts for VPNC and OpenConnect
+$
+
