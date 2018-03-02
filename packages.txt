@@ -3,7 +3,19 @@ Created Sat Oct 26 15:18:48 AKDT 2013
 Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+Package for Debian Stretch 9.3 amd64 (March 2, 2018)
+
+
+easy-rsa - Simple shell based CA utility
+
+network-manager-openvpn-gnome
+  Network management framework (OpenVPN plugin GNOME GUI)
+  Enable OpenVPN in the Gnome NetworkManager
+
 remmina - remote desktop client for GNOME desktop environment
+
+openvpn - virtual private network daemon
+
 
 
 vpnc - Cisco-compatible VPN client
