@@ -46,6 +46,17 @@ IPsec
 From Wikipedia, the free encyclopedi
 http://en.wikipedia.org/wiki/IPsec
 
+Linode OpenVPN pages:
+o Part 1 - Set up a Hardened OpenVPN Server on Debian 9
+  Updated Tuesday, September 26, 2017 by Linode
+  https://linode.com/docs/networking/vpn/set-up-a-hardened-openvpn-server/
+o Part 2 - Tunnel Your Internet Traffic Through an OpenVPN Server
+  Updated Wednesday, September 27, 2017 by Linode
+  https://linode.com/docs/networking/vpn/tunnel-your-internet-traffic-through-an-openvpn-server/
+o Part 3 - Configure OpenVPN Client Devices
+  Updated Monday, February 26, 2018 by Linode
+  https://linode.com/docs/networking/vpn/configuring-openvpn-client-devices/
+
 Linux Journal Security
 Has index of Paranoid Penguin - Building a Transparent Firewall with Linux index.
 http://www.linuxjournal.com/tag/security
