@@ -7,6 +7,8 @@ Package for Debian Stretch 9.3 amd64 (March 2, 2018)
 
 
 easy-rsa - Simple shell based CA utility
+  This is utility recommended on the OpenVPN HOWTO
+  https://openvpn.net/index.php/open-source/documentation/howto.html#pki
 
 network-manager-openvpn-gnome
   Network management framework (OpenVPN plugin GNOME GUI)
