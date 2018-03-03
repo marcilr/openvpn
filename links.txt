@@ -55,6 +55,7 @@ o Part 2 - Tunnel Your Internet Traffic Through an OpenVPN Server
   https://linode.com/docs/networking/vpn/tunnel-your-internet-traffic-through-an-openvpn-server/
 o Part 3 - Configure OpenVPN Client Devices
   Updated Monday, February 26, 2018 by Linode
+  Has nice summary of client credential files.
   https://linode.com/docs/networking/vpn/configuring-openvpn-client-devices/
 
 Linux Journal Security
