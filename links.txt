@@ -122,6 +122,11 @@ Chapter 7. Remote virtual machines
 Could be execellent to use for access win 7 pro machine at GCI
 https://www.virtualbox.org/manual/ch07.html
 
+Set up a Hardened OpenVPN Server on Debian 9 <===
+Updated Tuesday, September 26, 2017 by Linode
+Some great details here
+https://linode.com/docs/networking/vpn/set-up-a-hardened-openvpn-server/
+
 Setting up OpenVPN in debian/ubuntu
 Good syntax & explanations
 http://www.monkeedev.co.uk/blog/2009/03/06/setting-up-openvpn-in-debianubuntu/
