@@ -57,6 +57,9 @@ https://openvpn.net/index.php/open-source/documentation/howto.html#vpntype
 GRC | OpenVPN HOWTO Guide: Routing vs Bridging - Gibson Research
 https://www.grc.com/vpn/routing.htm
 
+OpenVPN Ethernet Bridging
+https://openvpn.net/index.php/open-source/documentation/howto.html
+
 OpenVPN Routing (in Secure-Computing Wiki)
 Good lan configuration details here.
 https://secure-computing.net/wiki/index.php/OpenVPN/Routing
