@@ -117,9 +117,6 @@ OpenVPN Tunnels and Bridges
 Good stuff.
 http://shorewall.net/OPENVPN.html
 
-OpenVPN Wiki
-https://wiki.debian.org/OpenVPN
-
 Paranoid Penguin - Linux VPNs with OpenVPN
 Connect safely to the mother ship with a Linux VPN.
 Issue #190, February 2010
