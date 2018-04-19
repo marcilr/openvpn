@@ -33,11 +33,11 @@ How to connect my ubuntu to my workplace,
 GlobalProtect VPN, using win 7 VM  <===
 http://askubuntu.com/questions/686186/how-to-connect-my-ubuntu-to-my-workplace-globalprotect-vpn-using-win-7-vm
 
-How To Set Up an OpenVPN Server on Debian 8
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-8
-
 How to Setup a VPN (PPTP) Server on Debian Linux
 http://www.howtogeek.com/51237/
+
+How To Set Up an OpenVPN Server on Debian 8
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-8
 
 How-To: Connect to a Cisco VPN with vpnc
 http://www.debuntu.org/how-to-connect-to-a-cisco-vpn-with-vpnc/
