@@ -10,28 +10,25 @@ easy-rsa - Simple shell based CA utility
   This is utility recommended on the OpenVPN HOWTO
   https://openvpn.net/index.php/open-source/documentation/howto.html#pki
 
-network-manager-openvpn-gnome
-  Network management framework (OpenVPN plugin GNOME GUI)
-  Enable OpenVPN in the Gnome NetworkManager
-
-remmina - remote desktop client for GNOME desktop environment
-
-
-openvpn <=== This is it!
-=======
-Debian stretch 9.3 amd64 - March 2, 2018
-
-$ apt-cache search openvpn | grep openvpn
 gadmin-openvpn-client - GTK+ configuration tool for openvpn (client)
 gadmin-openvpn-server - GTK+ configuration tool for openvpn (server)
-gadmin-openvpn-server-dbg - GTK+ configuration tool for openvpn (debug for server)
+gadmin-openvpn-server-dbg - GTK+ configuration tool for openvpn
+  (debug for server)
 network-manager-openvpn - network management framework (OpenVPN plugin core)
-network-manager-openvpn-gnome - network management framework (OpenVPN plugin GNOME GUI)
-openvpn - virtual private network daemon
+
+network-manager-openvpn-gnome - network management framework
+  (OpenVPN plugin GNOME GUI)
+  Enable OpenVPN in the Gnome NetworkManager
+
+openvpn - virtual private network daemon <=== This is it!
+  Debian stretch 9.3 amd64 - March 2, 2018
+
 openvpn-auth-ldap - OpenVPN LDAP authentication module
 openvpn-auth-radius - OpenVPN RADIUS authentication module
 openvpn-auth-radius-dbg - debugging symbols for openvpn-plugin-radius
 openvpn-systemd-resolved - integrates OpenVPN with systemd-resolved
+
+remmina - remote desktop client for GNOME desktop environment
 
 
 
