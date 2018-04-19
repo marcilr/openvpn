@@ -20,6 +20,9 @@ packages.txt
 svn_ext_val.txt
   List of repo hierarchical directories to checkout under vpn/
 
+syntax/
+  Syntax for openvpn
+
 vpn.txt
   Virtual private network (VPN)
 
