@@ -1,0 +1,32 @@
+openvpn.txt
+Created Thu Apr 19 15:28:48 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Test VPN
+=========
+Test a raw connection.
+
+server test
+From a server shell, run
+
+# openvpn --remote CLIENT_IP --dev tun1 --ifconfig 10.9.8.1 10.9.8.2
+
+if your client has a static IP#; otherwise, run
+
+# openvpn --dev tun1 --ifconfig 10.9.8.1 10.9.8.2
+
+You should see console output resembling
+
+Wed Mar  7 06:03:03 2012 NOTE: OpenVPN 2.1 requires '--script-security 2' \
+  or higher to call user-defined scripts or executables
+Wed Mar  7 06:03:03 2012 ******* WARNING *******: all encryption and \
+  authentication features disabled -- all data will be tunnelled as cleartext
+Wed Mar  7 06:03:03 2012 TUN/TAP device tun1 opened
+--wiki.debian.org/OpenVPN
+
+
+Links
+=====
+OpenVPN - Debian Wiki
+https://wiki.debian.org/OpenVPN
